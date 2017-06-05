@@ -29,8 +29,5 @@
       },
     "extra": {
         "installer-name": "Dompdf"
-    },
-    "config": {
-        "vendor-dir": "Vendor"
     }
 }

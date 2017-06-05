@@ -7,7 +7,10 @@ This plugin for the CakePHP Framework allows you to use the dompdf HTML to PDF c
 - [dompdf 0.6+](http://code.google.com/p/dompdf)
 
 ## Installation
-Download the repository and extract the archive to a folder called `Dompdf` in your Plugin folder.
+
+```shell
+composer require gianksp/cakephp-dompdf:dev-master
+```
 
 ### Vendor Files
 Download [dompdf 0.6](http://code.google.com/p/dompdf/downloads/list) and move the content of the archive to `Plugin/Dompdf/Vendor/dompdf`.
